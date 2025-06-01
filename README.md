@@ -202,34 +202,14 @@ Dead               33       9     173
 - 🎯 *Objective measurements* reducing human bias
 - 📈 *Data-driven decisions* for conservation efforts
 
-## 👥 Team
 
-### CoralNet Research Team
-
-| Name | Student ID | Role |
-|------|------------|------|
-| *Bhawana Dahaka* | MSD24002 | Deep Learning Engineer |
-| *Deepesh Yadav* | MSA24014 | Data Scientist |
-| *Pooja Verma* | MSA24029 | Web Developer |
-| *Sahil Rafaliya* | MSD24005 | System Architect |
-
-Department of Computer Science, University Name
-
-## 🔬 Research & Publications
 
 ### Dataset Source
 - *Kaggle*: [Coral Reef Dataset](https://www.kaggle.com/datasets/jxwleong/coral-reef-dataset)
 - *Format*: Point-level annotations with species labels
 - *Size*: 418K annotations across 2,455 high-resolution images
 
-### Citation
-bibtex
-@misc{coralnet2024,
-  title={AI-Powered Coral Reef Health Detection System},
-  author={Dahaka, Bhawana and Yadav, Deepesh and Verma, Pooja and Rafaliya, Sahil},
-  year={2024},
-  howpublished={\url{https://github.com/team-coralnet/coral-health-detection}}
-}
+
 
 
 ## 🚀 Future Enhancements
@@ -267,17 +247,6 @@ We welcome contributions from the marine biology and AI communities!
 - 📊 *Visualization*: Advanced charting and reporting features
 - 🔬 *Marine Biology*: Expert knowledge for better health classification
 
-## 📞 Contact & Support
-
-### Get Help
-- *📧 Email*: team.coralnet@university.edu
-- *💬 Issues*: [GitHub Issues](https://github.com/team-coralnet/coral-health-detection/issues)
-- *📚 Documentation*: [Wiki](https://github.com/team-coralnet/coral-health-detection/wiki)
-
-### Connect with Us
-- *LinkedIn*: [Team CoralNet](https://linkedin.com/company/team-coralnet)
-- *Twitter*: [@TeamCoralNet](https://twitter.com/teamcoralnet)
-- *ResearchGate*: [Coral Health Detection Project](https://researchgate.net/project/coral-health-detection)
 
 ## 🏆 Acknowledgments
 
@@ -285,7 +254,7 @@ We welcome contributions from the marine biology and AI communities!
 - *🧠 Open Source AI Community*: TensorFlow, scikit-learn, OpenCV contributors
 - *📊 Dataset Providers*: Original coral reef annotation researchers
 - *🏫 University Faculty*: Academic guidance and support
-- *🌍 Conservation Organizations*: Real-world application insights
+-  Conservation Organizations*: Real-world application insights
 
 ## 📊 Project Statistics
 
