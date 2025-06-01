@@ -112,31 +112,6 @@ print(f"Health Status: {results['overall_health']}")
 print(f"Health Score: {results['health_score']}/100")
 
 
-## 🏗 Project Structure
-
-
-coral_reef_detection/
-├── 📁 data/
-│   ├── raw/                    # Original dataset
-│   ├── processed/              # Processed data
-│   └── patches/                # Extracted patches
-├── 📁 model/
-│   ├── train_model.py          # Model training script
-│   ├── coral_model.py          # CNN architecture
-│   └── utils.py                # Evaluation utilities
-├── 📁 static/
-│   ├── css/style.css          # Frontend styling
-│   ├── js/main.js             # JavaScript functionality
-│   └── uploads/               # Uploaded images
-├── 📁 templates/
-│   └── index.html             # Web interface
-├── 📁 models/
-│   ├── coral_health_model.h5  # Trained model
-│   └── label_encoder.pkl      # Label encoder
-├── app.py                     # Flask web application
-├── data_processor.py          # Dataset processing
-└── requirements.txt           # Dependencies
-
 
 ## 🔬 Technical Details
 
