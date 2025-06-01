@@ -201,9 +201,7 @@ Dead               33       9     173
 - *🌡 Climate Impact Modeling*: Correlate with temperature and pH data
 - *🔄 Restoration Monitoring*: Track recovery progress over time
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
@@ -231,14 +229,6 @@ We welcome contributions from the marine biology and AI communities!
 - *🏫 University Faculty*: Academic guidance and support
 -  Conservation Organizations*: Real-world application insights
 
-## 📊 Project Statistics
-
-![GitHub stars](https://img.shields.io/github/stars/team-coralnet/coral-health-detection?style=social)
-![GitHub forks](https://img.shields.io/github/forks/team-coralnet/coral-health-detection?style=social)
-![GitHub issues](https://img.shields.io/github/issues/team-coralnet/coral-health-detection)
-![GitHub contributors](https://img.shields.io/github/contributors/team-coralnet/coral-health-detection)
-
----
 
 <div align="center">
 
