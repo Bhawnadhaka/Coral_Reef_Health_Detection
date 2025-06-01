@@ -48,7 +48,7 @@ Coral reefs are among Earth's most biodiverse ecosystems, but *50% have been los
 
 ### 1. Clone the Repository
 bash
-git clone https://github.com/your-team/coral-reef-health-detection.git
+git clone https://github.com/Bhawnadhaka/Coral_Reef_Health_Detection/tree/main
 cd coral-reef-health-detection
 
 
